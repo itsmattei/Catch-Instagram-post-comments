@@ -9,13 +9,3 @@ Before you start, please check:
 
 This code is intended as an alternative tutorial of ChromeDriver and to adapt it to the most used web pages in everyday life. 
 So please don't abuse the code and remember that an heavy use of it or the extraction of certain fields, may violate the privacy of social network users.
-
-
-## How to check your Chrome version?
-1. On your computer, open Chrome.
-2. At the top right, look at More.
-3. Click Help > About Chrome.
-
-
-![GitHub Logo](/imgs/Check_Chrome_version.png)
-Format: ![Alt Text](Check_Chrome_version)
