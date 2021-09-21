@@ -1,4 +1,4 @@
-# Select-Instagram-comments-post-using-ChromeDriver
+# Select Instagram comments post using ChromeDriver
 An easy way to convert Instagram public-posts into pandas dataframes using ChromeDriver
 
 Before you start, please check:
