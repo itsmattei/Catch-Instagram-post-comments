@@ -1,4 +1,4 @@
-# Gotta catch ‘em all Instagram post comments
+# Catch ‘em all Instagram post comments
 An easy way to convert Instagram public-posts into pandas dataframes using ChromeDriver
 
 Before you start, please check:
