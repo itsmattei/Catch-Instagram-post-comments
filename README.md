@@ -17,5 +17,5 @@ So please don't abuse the code and remember that an heavy use of it or the extra
 3. Click Help > About Chrome.
 
 
-![GitHub Logo](/imgs/CheckChromeVersion.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/imgs/Check_Chrome_version.png)
+Format: ![Alt Text](Check_Chrome_version)
